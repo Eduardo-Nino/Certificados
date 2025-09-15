@@ -8,5 +8,6 @@ Los certificados reflejan mi interés en seguir aprendiendo y desarrollando habi
 ## 📑 Índice de Certificados
 
 ### 🔹 Santander Open Academy
-- [Excel: basico e intermedio](Santander/Excel_Eduardo_Niño.pdf)(2025)  
+- [Excel: basico e intermedio](Santander/Excel_Eduardo_Niño.pdf)(2025)
+- [Business English, Part 1](Santander/Business_Eduardo_Niño.pdf)(2025)
 
