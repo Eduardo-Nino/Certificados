@@ -1,9 +1,7 @@
 # Cursos
 
-## Excel
-Este curso abarcó el uso de **herramientas intermedias de Excel**, enfocadas en el manejo de tablas, referencias, funciones y análisis de datos.  
-
-## ✅ Contenidos principales
+## 📗Excel
+Este curso abarcó el uso de **herramientas intermedias de Excel**, enfocadas en el manejo de tablas, referencias, funciones y análisis de datos, los cuales son:
 
 ### 1. Tablas de datos
 - Diferencias entre rangos y tablas.  
